@@ -1,3 +1,4 @@
+<hr>
 <div align="center">
   <a rel="nofollow" href="https://github.com/l34-n/Logica_da_Programacao/blob/main/puzz.gif">
     <img width="20%" src="./puzz.gif">
@@ -14,3 +15,4 @@
 <p align='left'><b> 3. Desconexão Usuários</b> - Encerra a sessão de usuários com status "desconectado" dos servidores remotos.</p>
 
 </details>
+<hr>
