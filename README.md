@@ -1,7 +1,7 @@
 
 <div align="center">
-  <a rel="nofollow" href="https://github.com/l34-n/Logica_da_Programacao/blob/main/puzz.gif">
-    <img width="20%" src="./puzz.gif">
+  <a rel="nofollow" href="https://github.com/l34-n/Redes_de_Computadores/blob/main/geo.gif">
+    <img width="20%" src="./geo.gif">
   </a>
 </div>
 
